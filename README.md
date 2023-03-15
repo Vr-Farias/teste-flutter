@@ -12,7 +12,7 @@
 <p>
 <h3>Processo:</h3>
 </p>
-<p>Como estudante de JavaScript, o desafio da TiTa Therapy foi muito gratificante, e uma ótima oportunidade de aprendizado, assim como prática de conceitos universais dentro da programação. O tempo até a conclusão se deu com pesquisa de conceitos, sintaxe, elementos básicos e avaçados, assim como a tentativa - também - de realizar mais de um teste. Entretanto, entendi meu processo e após inúmeros testes cheguei ao resultado apresentado em código.</p>
+<p>Como estudante de JavaScript, o desafio foi muito gratificante, e uma ótima oportunidade de aprendizado, assim como prática de conceitos universais dentro da programação. O tempo até a conclusão se deu com pesquisa de conceitos, sintaxe, elementos básicos e avaçados, assim como a tentativa - também - de realizar mais de um teste. Entretanto, entendi meu processo e após inúmeros testes cheguei ao resultado apresentado em código.</p>
 
 <p>
 <h3>Base:</h3>
